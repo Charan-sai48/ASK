@@ -149,7 +149,9 @@ plt.show()
 
 ```
 # Output Waveform
+<img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/e842669b-1989-4602-a4e1-07d876b535d0" />
 
+<img width="1201" height="1012" alt="image" src="https://github.com/user-attachments/assets/633b8e3c-b38d-408e-9a04-d92853d9d598" />
 
 # Results
 Thus the simple Python program for the modulation and demodulation of ASK and FSK is verified.
